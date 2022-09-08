@@ -52,3 +52,11 @@
 <img width="934" alt="Screen Shot 2022-09-08 at 10 07 12 PM" src="https://user-images.githubusercontent.com/101810007/189130376-4ddb2e04-d2cf-4289-a137-d5d133cc844e.png">
 <img width="923" alt="Screen Shot 2022-09-08 at 10 08 27 PM" src="https://user-images.githubusercontent.com/101810007/189130475-f5ca3383-f53c-4073-9062-8be1ea04cc91.png">
 <img width="963" alt="Screen Shot 2022-09-08 at 10 08 40 PM" src="https://user-images.githubusercontent.com/101810007/189130531-2f1486f3-646d-4b56-8342-70ba4e127d19.png">
+
+
+---
+
+
+## 5. ERD
+
+<img width="963" alt="Screen Shot 2022-09-08 at 10 08 40 PM" src="https://user-images.githubusercontent.com/110470208/189051930-421375cf-4c65-4365-b49e-bb6f04da89d9.JPG">
